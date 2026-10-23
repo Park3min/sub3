@@ -31,11 +31,9 @@
 
 ## 설치
 
-1. [Releases](https://github.com/Park3min/sub3/releases/latest)에서 `Sub3-1.1.0.dmg` 를 받습니다.
+1. [Releases](https://github.com/Park3min/sub3/releases/latest)에서 `Sub3-1.1.1.dmg` 를 받습니다.
 2. DMG 를 열고 **빠르크 서브3** 를 Applications 폴더로 끌어다 놓습니다.
-3. Applications 에서 빠르크 서브3 를 엽니다.
-   "확인할 수 없습니다" 경고가 뜨면 **시스템 설정 > 개인정보 보호 및 보안** 아래쪽의 **그래도 열기** 를 누릅니다.
-   (Apple 공증을 받지 않은 무료 배포라 처음 한 번만 필요합니다)
+3. Applications 에서 빠르크 서브3 를 엽니다. (애플 개발자 인증과 공증을 받은 앱이라 보안 경고 없이 바로 열립니다)
 4. 앱 창에 "Final Cut Pro 확장이 준비되었습니다" 가 보이면 설치가 끝났습니다.
    빨간 "확장 등록을 확인하지 못했습니다" 가 보이면 Final Cut Pro 를 한 번 열었다가 종료한 뒤 **다시 시도** 를 누르세요.
    (macOS 를 업데이트한 뒤 Final Cut Pro 를 아직 열지 않았으면 생깁니다)
