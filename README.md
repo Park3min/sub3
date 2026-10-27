@@ -32,7 +32,13 @@
 
 ## 설치
 
-1. [Releases](https://github.com/Park3min/sub3/releases/latest)에서 `Sub3-1.2.0.dmg` 를 받습니다.
+1. [최신 버전 페이지](https://github.com/Park3min/sub3/releases/latest)를 엽니다. 맨 위에 **빠르크 서브3 1.x.x** 와 초록색 **Latest** 가 보이면 맞게 들어온 것입니다.
+   <img src="docs/download-1-release.png" width="560" alt="최신 버전 페이지">
+
+   화면을 맨 아래까지 내려 **Assets** 목록에서 `.dmg` 로 끝나는 파일(`Sub3-1.2.0.dmg`)을 누릅니다. (.mp4 는 소개 영상, Source code 는 받지 않아도 됩니다)
+   <img src="docs/download-2-assets.png" width="560" alt="Assets 에서 DMG 받기">
+
+   받은 파일은 Finder 의 **다운로드** 폴더에 있습니다. 더블클릭하면 설치 창이 열립니다.
 2. DMG 를 열고 **빠르크 서브3** 를 Applications 폴더로 끌어다 놓습니다.
 3. Applications 에서 빠르크 서브3 를 엽니다. (애플 개발자 인증과 공증을 받은 앱이라 보안 경고 없이 바로 열립니다)
 4. 앱 창에 "Final Cut Pro 확장이 준비되었습니다" 가 보이면 설치가 끝났습니다.
